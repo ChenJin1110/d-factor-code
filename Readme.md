@@ -1,4 +1,4 @@
-Mental and Physical Health Multimorbidity: Evidence of Neural, Environmental, and Genetic Signatures of a 'Disease' Factor
+Neural–genetic–environmental evidence for a disease factor in mental and physical health multimorbidity
 ================================================================================================================================================
 
 This repository contains the scripts and resources used in our study. The project is structured into multiple directories to reflect the different types of analyses described in the manuscript.
@@ -95,4 +95,4 @@ This repository contains the scripts and resources used in our study. The projec
 ------------
 
 If you use any scripts or methods from this repository, please cite the associated paper:  
-**Mental and Physical Health Multimorbidity: Evidence of Neural, Environmental, and Genetic Signatures of a 'Disease' Factor**
+**Neural–genetic–environmental evidence for a disease factor in mental and physical health multimorbidity**
