@@ -26,18 +26,7 @@ This repository contains the scripts and resources used in our study. The projec
   * Mplus7
   * `BifactorIndicesCalculator` (0.2.2)
 
-### 3. **Mediation Effects Model**
-
-* **Description**: Scripts for analyzing:
-  * Extreme deviations
-  * Correlations with the 'disease' factor (`d-factor`)
-  * Mediation effects
-* **Tools Used**:
-  * `Pyprocessmacro` (1.0.12)
-  * `Statsmodels` (0.14.0)
-  * `Pandas` (2.0.3)
-
-### 4. **Normative Model**
+### 3. **Normative Model**
 
 * **Description**: Contains Python scripts to develop the normative model used in this study.  
   This implementation is based on the repository from [Predictive Clinical Neuroscience](https://github.com/predictive-clinical-neuroscience/NM_educational_OHBM24).
